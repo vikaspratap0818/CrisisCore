@@ -1,0 +1,22 @@
+# Dependencies (reinstalled in Docker)
+node_modules
+client/node_modules
+server/node_modules
+
+# Dev files
+client/.vite
+client/dist
+*.log
+
+# Env secrets (managed via Cloud Run env vars)
+server/.env
+.env
+
+# Git
+.git
+.gitignore
+
+# Scripts not needed in image
+setup-assets.js
+copy-logo.ps1
+README.md

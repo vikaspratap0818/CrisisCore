@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="100" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+    <radialGradient id="c" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#1a1a2e"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </radialGradient>
+  </defs>
+  <path d="M50 5 L90 22 L90 55 C90 75 70 92 50 97 C30 92 10 75 10 55 L10 22 Z" fill="url(#g)" opacity=".9"/>
+  <path d="M50 10 L85 25 L85 54 C85 72 67 87 50 92 C33 87 15 72 15 54 L15 25 Z" fill="url(#c)"/>
+  <circle cx="50" cy="50" r="25" stroke="#1e293b" stroke-width="1" fill="none"/>
+  <circle cx="50" cy="50" r="18" stroke="#1e293b" stroke-width=".5" fill="none"/>
+  <polyline points="20,52 35,52 38,52 40,42 43,62 46,38 49,58 52,48 55,52 58,52 65,52 68,52 70,44 73,56 76,52 80,52" stroke="#ef4444" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="50" cy="50" r="3" fill="#ef4444" opacity=".4"/>
+  <line x1="82" y1="38" x2="95" y2="32" stroke="#3b82f6" stroke-width="1.2" opacity=".7"/>
+  <circle cx="95" cy="32" r="2" fill="#3b82f6" opacity=".7"/>
+  <line x1="84" y1="50" x2="98" y2="50" stroke="#3b82f6" stroke-width="1.2" opacity=".5"/>
+  <circle cx="98" cy="50" r="1.5" fill="#3b82f6" opacity=".5"/>
+  <line x1="82" y1="62" x2="93" y2="68" stroke="#3b82f6" stroke-width="1.2" opacity=".4"/>
+  <circle cx="93" cy="68" r="1.5" fill="#3b82f6" opacity=".4"/>
+</svg>
