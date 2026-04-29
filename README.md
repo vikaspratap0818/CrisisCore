@@ -1,4 +1,4 @@
-# ⚡ CrisisCore — Hospitality Emergency Management Platform
+# CrisisCore — Hospitality Emergency Management Platform
 ### AI-Powered Rapid Crisis Response Coordinator (MERN Stack)
 
 ---
@@ -6,7 +6,7 @@
 <img width="1919" height="915" alt="Screenshot 2026-04-28 154331" src="https://github.com/user-attachments/assets/384014e4-9a17-462c-84bf-90422fbfe04d" />
 
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+ 
@@ -37,7 +37,7 @@ npm run dev
 
 ---
 
-## 🔑 Demo Login Credentials
+## Demo Login Credentials
 
 | Role | Staff ID | Password |
 |------|---------|----------|
@@ -51,7 +51,7 @@ npm run dev
 
 ---
 
-## 📦 Tech Stack
+## Tech Stack
 
 ### Backend
 | Tech | Purpose |
@@ -75,7 +75,7 @@ npm run dev
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Solution Challenege Project/
@@ -124,7 +124,7 @@ Solution Challenege Project/
 
 ---
 
-## 🤖 AI Crisis Classification
+## AI Crisis Classification
 
 The AI engine classifies any plain-language text input:
 
@@ -155,7 +155,7 @@ The AI engine classifies any plain-language text input:
 
 ---
 
-## 🔒 Security & Compliance
+## Security & Compliance
 
 - **JWT Authentication** — 12h expiry, role-based access
 - **GDPR Compliance** — PII anonymization settings
@@ -165,7 +165,7 @@ The AI engine classifies any plain-language text input:
 
 ---
 
-## 📊 Key Features Checklist
+## Key Features Checklist
 
 - [x] AI-powered crisis classification from natural language
 - [x] Severity scoring (Critical/High/Moderate/Low)
